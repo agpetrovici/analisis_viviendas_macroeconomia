@@ -8,3 +8,5 @@ Se realizan análisis estableciendo correlaciones de series temporales desfasand
 - Extracción: Selenium, Beautiful Soup, Requests
 - Análisis: Pandas, Numpy y SciPy
 - Visualización: Matplotlib, Seaborn y Geopandas
+
+![alt text](Plano_Madrid_3.jpg?raw=true)
